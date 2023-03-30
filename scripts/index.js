@@ -4,7 +4,7 @@ class OthelloGame {
         width: 8,
         cellMaxWidth: 80,
         selector: "othello",
-        cellBGColor: "blue",
+        cellBGColor: "green",
     };
 
     constructor(options = {}) {
